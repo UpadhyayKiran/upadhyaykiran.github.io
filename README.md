@@ -54,9 +54,9 @@ Developed a real-time object detection system using **CNNs**, **TensorFlow**, an
 - **Vedic Maths Trainer**: Certified in Vedic Mathematics (2021).
 - **Workshops**: Attended SIG 2 and SIG 7 workshops on Communication, Study Skills, Finishing skills, Grooming, and Etiquette during M.Sc.
 
-- [LinkedIn](https://www.linkedin.com/in/kiranupadhyay-mathematician)
+- [LinkedIn](https://www.linkedin.com/in/kiran-upadhyay-mathematician/)
 - [GitHub](https://github.com/UpadhyayKiran)
-- [Profile](upadhyaykiran.github.io)
+- [Profile](https://upadhyaykiran.github.io/)
 - Email: upadhyayk23@gmail.com
 
 ## Skills
