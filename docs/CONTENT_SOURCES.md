@@ -58,3 +58,7 @@ Descriptions follow resume and PR metadata. Open work is never labeled merged.
 ## Links and privacy
 
 GitHub, LinkedIn, Hugging Face, email and phone match the supplied PDF and its embedded links. LinkedIn returned 999 to automated requests; this is recorded as blocked verification, not a successful availability check. The downloadable PDF intentionally includes the public contact details requested by the owner. No form service, tracking script, credential, inference API, or uploaded model artifact is used.
+
+## Final skills refinement - 14 October 2026
+
+At the owner's explicit direction, MLOps, Docker, Kubernetes, AWS and CI/CD are listed under **Academic hands-on experience**. This is an academic experience qualification, not a production operations claim. The supplied Intel PDF remains unchanged; its replacement is deferred. Verified project descriptions and benchmark metrics are unchanged.
