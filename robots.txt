@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://upadhyaykiran.github.io/sitemap.xml
