@@ -1,0 +1,67 @@
+[
+  {
+    "width": 1440,
+    "theme": "light",
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "width": 1440,
+    "theme": "dark",
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "theme": "light",
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "theme": "dark",
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "width": 390,
+    "theme": "light",
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "width": 390,
+    "theme": "dark",
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "width": 320,
+    "theme": "light",
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "width": 320,
+    "theme": "dark",
+    "overflow": false,
+    "errors": [],
+    "violations": []
+  },
+  {
+    "interaction": {
+      "selected": "dark",
+      "persisted": "dark",
+      "firstFocus": "Skip to content",
+      "skipTarget": "main",
+      "download": "Kiran_Upadhyay_Intel.pdf"
+    }
+  }
+]

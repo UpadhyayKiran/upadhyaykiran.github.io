@@ -1,0 +1,41 @@
+[
+  {
+    "opts": {
+      "javaScriptEnabled": false
+    },
+    "title": "Kiran Upadhyay — AI & Agentic AI Engineer",
+    "projects": 3,
+    "themeButtonVisible": false,
+    "background": "rgb(245, 245, 239)"
+  },
+  {
+    "opts": {
+      "colorScheme": "dark"
+    },
+    "title": "Kiran Upadhyay — AI & Agentic AI Engineer",
+    "projects": 3,
+    "themeButtonVisible": true,
+    "background": "rgb(16, 30, 38)"
+  },
+  {
+    "opts": {
+      "colorScheme": "light"
+    },
+    "title": "Kiran Upadhyay — AI & Agentic AI Engineer",
+    "projects": 3,
+    "themeButtonVisible": true,
+    "background": "rgb(245, 245, 239)"
+  },
+  {
+    "storageBlocked": "dark"
+  },
+  {
+    "reducedMotion": "none"
+  },
+  {
+    "zoomEquivalent640": true
+  },
+  {
+    "builtEntry": "Kiran Upadhyay — AI & Agentic AI Engineer"
+  }
+]

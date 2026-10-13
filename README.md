@@ -1,64 +1,26 @@
-# Mathematician | Data Science & Artificial Intelligence
+﻿# Kiran Upadhyay portfolio
 
-#### Technical Skills: Python, SQL, TensorFlow, PyTorch, Pandas, NumPy, Git, REST APIs, MATLAB, Docker, Cloud Platforms
+A responsive static portfolio for AI, Agentic AI, and Python engineering opportunities.
 
-## Education
-- **Master of Technology in Data Science and Artificial Intelligence** | PES University (_Expected March 2026_)
-- **Master of Science in Mathematics** | Marwadi University (_April 2018_) - CGPA: 9.55/10
-- **Bachelor of Science in Mathematics** | Saurashtra University (_March 2016_) - CGPA: 8.65/10
+## Preview and validation
 
-## Work Experience
-**Prompt Engineer @ Pareto.AI** (_Aug 2024 - Present_)  
-- Designed and optimized LLM prompts for various applications, including mathematical queries and failure testing scenarios, ensuring high accuracy and relevance.
+```powershell
+python scripts/build.py
+node --check assets/js/theme.js
+node --check assets/js/main.js
+python -m http.server 4173 --bind 127.0.0.1
+```
 
-**Prompt Engineer @ Outlier** (_Aug 2023 - Present_)  
-- Specialized in prompt design, model evaluation, and fine-tuning for advanced mathematics tasks.
-- Reviewed and enhanced prompts to improve model performance and output consistency.
+Open http://127.0.0.1:4173/. The build validates local links, IDs, metadata and JSON-LD, then copies the static entry point and assets to ignored `dist/`. There are no runtime dependencies, remote fonts, analytics, cookies or backend services. Theme preference is stored locally when available.
 
-**Subject Matter Expert @ Straive** (_Oct 2023 - Nov 2023_)  
-- Contributed to advanced mathematics content creation, ensuring academic precision and clarity.
+## GitHub Pages
 
-**Subject Matter Expert @ Dimentics Info Tech Pvt. Ltd** (_Oct 2022 - Oct 2023_)  
-- Created over 5000 accurate and clear solutions for applied and pure mathematics topics.
+The existing Pages configuration publishes `main` from `/` with the legacy Jekyll build. `_config.yaml` is retained unchanged. `index.html` is a static entry point without front matter and is copied by Jekyll alongside `assets/`. The build script is for local verification; `dist/` is not the Pages publishing source. No deployment workflow is added.
 
-**Doubt Solving Educator @ Unacademy** (_Nov 2021 - Nov 2022_)  
-- Resolved complex mathematics doubts for students preparing for competitive exams.
+Review branch: `portfolio/ai-engineering-refresh`. Merging into `main` will trigger the existing Pages publication: merge only after owner approval.
 
-**Junior Subject Matter Expert @ Scholars Wing Edu Tech Solutions LLP** (_Oct 2021 - Oct 2022_)  
-- Developed advanced problem sets and educational materials for undergraduate mathematics.
+## Content maintenance
 
-**Advanced Mathematics Subject Matter Expert @ Chegg India Pvt Ltd** (_Sep 2020 - Present_)  
-- Provided detailed solutions for advanced mathematics problems and helped global students improve their understanding.
+Personal details and the unchanged downloadable PDF use the supplied Intel resume. Certifications are retained from the previous portfolio at the owner's request. Project claims are limited to the evidence described in [docs/CONTENT_SOURCES.md](docs/CONTENT_SOURCES.md). Keep benchmark scope and research limitations when updating metrics. Update dated PR statuses when reviewing contributions.
 
-## Projects
-### UAV Trajectory Optimization Using Differential Equations
-Developed a model for UAV flight dynamics using differential equations in a simulation, optimizing paths considering terrain, weather, and energy constraints.
-
-### Optimization of UAV Energy Consumption Using Gradient Descent
-Designed a gradient descent-based optimization algorithm to minimize UAV energy consumption by balancing speed and altitude.
-
-### Computer Vision-based Object Detection & Classification
-Developed a real-time object detection system using **CNNs**, **TensorFlow**, and **OpenCV** for dynamic aerial imagery, optimizing object tracking and terrain analysis in simulations.
-
-### LLM-Powered Email Classification and Order Processing
-   Built a proof-of-concept application using [LLMs](w) to classify customer emails and process orders, enhancing operational efficiency for a fashion retail store.
-
-### AI-Driven Optimization of Wind Turbine Operations
-   Developed a [machine learning](w) model to optimize turbine settings for [wind farms](w), improving energy output while minimizing costs.
-
-### LLM Integration for Fault Detection in Energy Systems
-   Developed a proof-of-concept using [LLMs](w) to automate fault detection and troubleshooting in energy systems like [wind turbines](w) and [gas power plants](w), improving efficiency and supporting decarbonization.
-
-## Certifications
-- **LinkedIn Certifications**: Artificial Intelligence Foundations (Neural Networks), NumPy Essential Training (Foundations & Matplotlib), Deep Learning with TensorFlow & PyTorch, Programming with Python (OpenEDG), Generative AI (LLMs & NLP), Python (OOP, Essentials), Programming Foundations, Visual Studio Code for Python.
-- **Vedic Maths Trainer**: Certified in Vedic Mathematics (2021).
-- **Workshops**: Attended SIG 2 and SIG 7 workshops on Communication, Study Skills, Finishing skills, Grooming, and Etiquette during M.Sc.
-
-- [LinkedIn](https://www.linkedin.com/in/kiran-upadhyay-mathematician/)
-- [GitHub](https://github.com/UpadhyayKiran)
-- [Profile](https://upadhyaykiran.github.io/)
-- Email: upadhyayk23@gmail.com
-
-## Skills
-- **Mathematics & Statistics**: Linear Algebra, Probability, Optimization, Calculus, Statistical Modelling, Mathematical Modelling, Advanced Mathematics.
-- **Programming & Tools**: Python, SQL, TensorFlow, PyTorch, Pandas, NumPy, Git, REST APIs, MATLAB, Docker, Cloud Platforms.
+See [docs/REVIEW.md](docs/REVIEW.md) for design choices and validation results.

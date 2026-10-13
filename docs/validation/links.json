@@ -1,0 +1,77 @@
+[
+  {
+    "url": "https://github.com/UpadhyayKiran",
+    "status": 200,
+    "final": "https://github.com/UpadhyayKiran"
+  },
+  {
+    "url": "https://github.com/UpadhyayKiran/Biomedical-RAG-Research-Assistant",
+    "status": 200,
+    "final": "https://github.com/UpadhyayKiran/Biomedical-RAG-Research-Assistant"
+  },
+  {
+    "url": "https://github.com/UpadhyayKiran/Biomedical-RAG-Research-Assistant/blob/main/docs/EVALUATION.md",
+    "status": 200,
+    "final": "https://github.com/UpadhyayKiran/Biomedical-RAG-Research-Assistant/blob/main/docs/EVALUATION.md"
+  },
+  {
+    "url": "https://github.com/UpadhyayKiran/Budget-Aware-AutoLLM",
+    "status": 200,
+    "final": "https://github.com/UpadhyayKiran/Budget-Aware-AutoLLM"
+  },
+  {
+    "url": "https://github.com/UpadhyayKiran/Budget-Aware-AutoLLM#release-validation-metrics",
+    "status": 200,
+    "final": "https://github.com/UpadhyayKiran/Budget-Aware-AutoLLM#release-validation-metrics"
+  },
+  {
+    "url": "https://github.com/UpadhyayKiran/GraphFix",
+    "status": 200,
+    "final": "https://github.com/UpadhyayKiran/GraphFix"
+  },
+  {
+    "url": "https://github.com/UpadhyayKiran/GraphFix/blob/main/docs/PHASE1_FINAL_RESULTS.md",
+    "status": 200,
+    "final": "https://github.com/UpadhyayKiran/GraphFix/blob/main/docs/PHASE1_FINAL_RESULTS.md"
+  },
+  {
+    "url": "https://github.com/flet-dev/flet/pull/6770",
+    "status": 200,
+    "final": "https://github.com/flet-dev/flet/pull/6770"
+  },
+  {
+    "url": "https://github.com/huggingface/huggingface_hub/pull/4963",
+    "status": 200,
+    "final": "https://github.com/huggingface/huggingface_hub/pull/4963"
+  },
+  {
+    "url": "https://github.com/huggingface/optimum/pull/2502",
+    "status": 200,
+    "final": "https://github.com/huggingface/optimum/pull/2502"
+  },
+  {
+    "url": "https://github.com/statsmodels/statsmodels/pull/10326",
+    "status": 200,
+    "final": "https://github.com/statsmodels/statsmodels/pull/10326"
+  },
+  {
+    "url": "https://huggingface.co/KiranUpadhyay",
+    "status": 200,
+    "final": "https://huggingface.co/KiranUpadhyay"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7544241",
+    "status": 403,
+    "final": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7544241"
+  },
+  {
+    "url": "https://upadhyaykiran.github.io/",
+    "status": 200,
+    "final": "https://upadhyaykiran.github.io/"
+  },
+  {
+    "url": "https://www.linkedin.com/in/kiran-upadhyay-mathematician/",
+    "status": 999,
+    "final": "https://www.linkedin.com/in/kiran-upadhyay-mathematician/"
+  }
+]
